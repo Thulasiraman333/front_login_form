@@ -1,0 +1,18 @@
+.loginsection{
+  background-color: lightgrey;
+  padding-top:20px;
+  padding-bottom: 10px;
+}
+.btn-login{background: #0069c0; color:#fff; font-weight:600;}
+.btn-sec{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.login-img{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-image: url('https://img.freepik.com/free-photo/notebook-glasses-crop-laptop-near-coffee_23-2147777915.jpg?w=996&t=st=1704286196~exp=1704286796~hmac=ac5db8a396e8db8b511236f12327dc876a0dda4ade86368ceb1946149314de8f');
+}

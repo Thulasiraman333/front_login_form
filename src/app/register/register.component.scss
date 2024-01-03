@@ -1,0 +1,20 @@
+.register-block{
+  float:left;
+  width:100%;
+  padding : 50px 0;
+}
+
+.container{ background-color: lightgray;border-radius: 10px; width: 40%; height: 40%;}
+.register-sec{padding: 50px 30px; position:relative;}
+.register-sec h2{margin-bottom:30px; font-weight:800; font-size:30px; color: #0069c0;}
+.register-sec h2:after{content:" "; width:100px; height:5px; background:#6ec6ff; display:block; margin-top:20px; border-radius:3px; margin-left:auto;margin-right:auto}
+.btn-login{background: #0069c0; color:#fff; font-weight:600;}
+
+
+.register-img{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-image: url('https://img.freepik.com/free-photo/blurred-view-corridor-with-plants_1203-1080.jpg?w=996&t=st=1704285754~exp=1704286354~hmac=dfae963edf29347eda87b53ea976a37ab0434bfdd74b6a53c7d58d4c682a2b49') 
+}
